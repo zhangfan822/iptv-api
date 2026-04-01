@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-01 19:07:20,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2026-04-02 06:47:03,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -586,6 +586,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 广州综合,https://live.iill.top/gztv/zhonghe
 广州综合,https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1746379256&key=d898bee3f868195bd88d19e1d0b24f82
 广州综合,https://tv.iill.top/gztv/zhonghe
+广州综合,http://r.jdshipin.com/iR6Gq
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi#https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
 广州影视,https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1746307365&key=2ae0710654e113d38d46552612cb85e7
 广州影视,https://tv.iill.top/gztv/yingshi
@@ -775,6 +776,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 东方财经,http://tv.scjyhd.com:4022/udp/239.93.0.249:5140
 东方财经,http://yc.myds.me:35455/itv/5000000007000010003.m3u8?cdn=bestzb
 东方财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/index.m3u8
+东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 动漫秀场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8
 动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
@@ -807,6 +809,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 法治天地,http://z.b.bkpcp.top/m.php?id=fztd
 法治天地,https://cc06.tv12.xyz/42.m3u8
 法治天地,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/index.m3u8
+法治天地,https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8
 生活时尚,http://tv.scjyhd.com:4022/udp/239.93.0.106:5140
 生活时尚,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
 第一财经,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
@@ -1621,6 +1624,7 @@ CCTV-5+,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1
 睛彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 睛彩篮球,http://3501776.xyz:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
+睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
 睛彩广场舞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 睛彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
@@ -1721,6 +1725,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
 游戏风云,http://3501776.xyz:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 游戏风云,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000027005/1.m3u8?channel-id=bestzb&Contentid=5000000002000027005&livemode=1&stbId=m
+游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8
 电竞天堂,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288003/index.m3u8?channel-id=bestzb&Contentid=5000000011000288003&livemode=1&stbId=YanG-1989
 电竞天堂,http://tv.scjyhd.com:4022/udp/239.93.1.135:5140
 爱电竞,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000230630
